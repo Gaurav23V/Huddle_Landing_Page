@@ -22,7 +22,7 @@ The project was created as part of a challenge from Frontend Mentor (link to the
 
 ## Demo
 
-You can see a live demo of the Huddle Dashboard at the following link: [Live Demo](https://your-demo-url.com)
+You can see a live demo of the Huddle Dashboard at the following link: <a href="https://gaurav23v.github.io/Huddle_Landing_Page/">Click Me!</a>
 
 ## Features
 
