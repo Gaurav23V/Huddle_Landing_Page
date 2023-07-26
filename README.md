@@ -1,7 +1,7 @@
 # Huddle Dashboard Project
 
 <div align="center">
-  <img src="Screenshot 2023-07-26 185629.png" alt="Project Image">
+  <img src="Screenshot 2023-07-26 230107.png" alt="Project Image">
 </div>
 
 ## Table of Contents
